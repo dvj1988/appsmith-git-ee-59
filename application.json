@@ -18,32 +18,8 @@
   "icon": "server",
   "pages": [
     {
-      "id": "Page1",
+      "id": "Page 1",
       "isDefault": true
-    },
-    {
-      "id": "Page1 Copy",
-      "isDefault": false
-    },
-    {
-      "id": "Page1 Copy1",
-      "isDefault": false
-    },
-    {
-      "id": "Page1 Copy2",
-      "isDefault": false
-    },
-    {
-      "id": "Page1 Copy3",
-      "isDefault": false
-    },
-    {
-      "id": "Page1 Copy4",
-      "isDefault": false
-    },
-    {
-      "id": "Page1 Copy5",
-      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {

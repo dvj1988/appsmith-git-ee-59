@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "6826de1476338e1247c77c36_3e5a3148-8f74-484d-8595-ef3ec60f2ae9",
-  "id": "Page1 Copy_Api1",
+  "gitSyncId": "6826de1476338e1247c77c36_197f4fea-76ea-4e03-9c80-3bd3e6569362",
+  "id": "Page 1_Api1_edited",
   "pluginId": "restapi-plugin",
   "pluginType": "API",
   "unpublishedAction": {
@@ -12,16 +12,7 @@
       "formData": {
         "apiContentType": "none"
       },
-      "headers": [
-        {
-          "key": "",
-          "value": ""
-        },
-        {
-          "key": "",
-          "value": ""
-        }
-      ],
+      "headers": [],
       "httpMethod": "GET",
       "httpVersion": "HTTP11",
       "paginationType": "NONE",
@@ -41,8 +32,8 @@
       "pluginId": "restapi-plugin"
     },
     "dynamicBindingPathList": [],
-    "name": "Api1",
-    "pageId": "Page1 Copy",
+    "name": "Api1_edited",
+    "pageId": "Page 1",
     "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
