@@ -5,6 +5,7 @@
   "pluginType": "DB",
   "unpublishedAction": {
     "actionConfiguration": {
+      "body": "sdfsdfsdfsfsdfsdfsdfsf",
       "encodeParamsToggle": true,
       "paginationType": "NONE",
       "pluginSpecifiedTemplates": [
@@ -21,6 +22,7 @@
       "name": "Aforce DB",
       "pluginId": "postgres-plugin"
     },
+    "dynamicBindingPathList": [],
     "name": "getUpcomingInterviews",
     "pageId": "Page 1",
     "runBehaviour": "MANUAL",
