@@ -1,11 +1,10 @@
 {
-  "gitSyncId": "682b2a0a09e8c01b18e4156f_5d82d64e-11bb-4794-847f-ef3282efbbbe",
-  "id": "Page 1_getUpcomingInterviews",
+  "gitSyncId": "682b2a0a09e8c01b18e4156f_bae49913-47bb-4f44-a00b-065b3a21ec68",
+  "id": "Page 1_Query1",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
     "actionConfiguration": {
-      "body": "SELECT * FROM <<your_table_name>> LIMIT 10;\n\n-- Please enter a valid table name and hit RUN\n",
       "encodeParamsToggle": true,
       "paginationType": "NONE",
       "pluginSpecifiedTemplates": [
@@ -22,8 +21,7 @@
       "name": "Aforce DB",
       "pluginId": "postgres-plugin"
     },
-    "dynamicBindingPathList": [],
-    "name": "getUpcomingInterviews",
+    "name": "Query1",
     "pageId": "Page 1",
     "runBehaviour": "MANUAL",
     "userSetOnLoad": false
