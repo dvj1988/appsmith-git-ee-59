@@ -1,10 +1,11 @@
 {
   "gitSyncId": "682b2a0a09e8c01b18e4156f_bae49913-47bb-4f44-a00b-065b3a21ec68",
-  "id": "Page 1_Query1",
+  "id": "Page 1_getUpcomingInterviews",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
     "actionConfiguration": {
+      "body": "sdfsdfsdfsdf",
       "encodeParamsToggle": true,
       "paginationType": "NONE",
       "pluginSpecifiedTemplates": [
@@ -21,7 +22,8 @@
       "name": "Aforce DB",
       "pluginId": "postgres-plugin"
     },
-    "name": "Query1",
+    "dynamicBindingPathList": [],
+    "name": "getUpcomingInterviews",
     "pageId": "Page 1",
     "runBehaviour": "MANUAL",
     "userSetOnLoad": false
