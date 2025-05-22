@@ -1,6 +1,6 @@
 {
   "gitSyncId": "682b2a0a09e8c01b18e4156f_5d82d64e-11bb-4794-847f-ef3282efbbbe",
-  "id": "Page 1_getAllInterviews",
+  "id": "Page 1_getUpcomingInterviews",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -23,7 +23,7 @@
       "pluginId": "postgres-plugin"
     },
     "dynamicBindingPathList": [],
-    "name": "getAllInterviews",
+    "name": "getUpcomingInterviews",
     "pageId": "Page 1",
     "runBehaviour": "MANUAL",
     "userSetOnLoad": false
