@@ -1,6 +1,6 @@
 {
   "gitSyncId": "682b2a0a09e8c01b18e4156f_c2943b1e-2641-4df0-ab9e-cbe3709e7dd4",
-  "id": "Page1_Query1",
+  "id": "Page1_Query1_ghghg",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -23,7 +23,7 @@
       "pluginId": "postgres-plugin"
     },
     "dynamicBindingPathList": [],
-    "name": "Query1",
+    "name": "Query1_ghghg",
     "pageId": "Page1",
     "runBehaviour": "MANUAL",
     "userSetOnLoad": false
